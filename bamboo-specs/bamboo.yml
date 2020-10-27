@@ -3,7 +3,7 @@ version: 2
 plan:
   project-key: WEBCO
   key: WCTJNTRPRTR
-  name: static-http-error-pages
+  name: wct-junit-reporter
 
 triggers:
   - polling: 130
