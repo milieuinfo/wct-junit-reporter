@@ -1,33 +1,29 @@
 {
     "name": "wct-junit-reporter",
-    "version": "0.1.0",
+    "version": "0.0.1",
     "description": "JUint format reporting for projects being tested by web-component-tester",
+    "author": "DIDM",
+    "license": "MIT",
     "main": "lib/plugin.js",
+    "homepage": "https://github.com/milieuinfo/wct-junit-reporter#readme",
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/marcelmeulemans/wct-junit-reporter.git"
+        "url": "git+https://github.com/milieuinfo/wct-junit-reporter.git"
     },
-    "keywords": [
-        "web-component-tester",
-        "wct",
-        "reporter",
-        "junit"
-    ],
-    "author": {
-        "name": "Marcel Meulemans"
+    "scripts": {
+        "release": "np",
+        "release:prepare": "",
+        "release:testless": "np --yolo"
     },
-    "license": "MIT",
-    "bugs": {
-        "url": "git+https://github.com/marcelmeulemans/wct-junit-reporter/issues"
-    },
-    "homepage": "https://github.com/marcelmeulemans/wct-junit-reporter",
     "dependencies": {
         "pixl-xml": "^1.0.4",
         "lodash": "^3.10.1",
         "he": "^0.5.0"
     },
+    "devDependencies": {
+        "np": "^6.4.0"
+    },
     "wct-plugin": {
-        "cli-options": {
-        }
+        "cli-options": {}
     }
 }
