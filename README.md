@@ -19,8 +19,8 @@ Uiteraard is het ook toegelaten om mee te ontwikkelen door gebruik te maken van 
 We gebruiken [Semantic Versioning](https://semver.org) en voorzien elke release van release notes, zie een overzicht van de [releases](https://github.com/milieuinfo/webcomponent-vl-ui-button/releases).
 
 ## Credits
-Credits voor [wct-junit-reporter contributors](https://github.com/marcelmeulemans/wct-junit-reporter/graphs/contributors)
-Zie de lijst van [ontwikkelaars](https://github.com/milieuinfo/webcomponent-vl-ui-button/graphs/contributors) die meegewerkt hebben aan de webcomponent.
+- Credits voor [wct-junit-reporter contributors](https://github.com/marcelmeulemans/wct-junit-reporter/graphs/contributors)
+- Zie de lijst van [ontwikkelaars](https://github.com/milieuinfo/webcomponent-vl-ui-button/graphs/contributors) die meegewerkt hebben aan de webcomponent.
 
 ## Contact
 Heb je suggesties, opmerkingen of tips? Voel je dan vrij om ons te contacteren via help@omgevingvlaanderen.be.
